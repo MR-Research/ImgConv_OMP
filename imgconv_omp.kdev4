@@ -1,0 +1,3 @@
+[Project]
+Name=imgconv_omp
+Manager=KDevCMakeManager
